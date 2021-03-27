@@ -8,7 +8,7 @@ With my background in the arts, I bring immense creativity, the ability to empat
 
 I am passionate about bettering other people’s lives and the world around us through code!
 
-- I'm currently sharpening my Redux skills and working on "The Unofficial List", and application to help actors sign up for auditions more easily.
+- I'm currently sharpening my Redux skills and working on "The Unofficial List", an application to help actors sign up for auditions more easily.
 - Along with that, I am also taking a Data Structures & Algorithms course to get me in tip-top shape for Udemy.
 - I'm looking to collaborate on projects surrounding social justice, climate change, and other work that aligns with my values.
 - Fun fact: I am currently in SW Utah in rehearsal for Tuacahn Ampitheatre's 2021 Broadway season!
