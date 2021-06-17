@@ -8,10 +8,10 @@ With my background in the arts, I bring immense creativity, the ability to empat
 
 I am passionate about bettering other people’s lives and the world around us through code!
 
-- I'm currently sharpening my Redux skills and working on "The Unofficial List", an application to help actors sign up for auditions more easily.
+- I'm playing around with testing for the first time, and using my new knowledge of React hooks to create my portfolio website.
 - Along with that, I am also taking a Data Structures & Algorithms course to get me in tip-top shape with Udemy.
 - I'm looking to collaborate on projects surrounding social justice, climate change, and other work that aligns with my values.
-- Fun fact: I am currently in SW Utah in rehearsal for Tuacahn Ampitheatre's 2021 Broadway season!
+- Fun fact: I am currently in SW Utah performing in Tuacahn Ampitheatre's 2021 Broadway season!
 
 <!--
 **thequeenbeebs/thequeenbeebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
